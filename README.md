@@ -1,3 +1,12 @@
+### Technical Stack used
+
+1. Django
+2. DRF
+3. Sqlite
+4. Session Token Management
+5. Django Email
+
+
 ### Regitser api
 
 1. http://127.0.0.1:8000/register/
